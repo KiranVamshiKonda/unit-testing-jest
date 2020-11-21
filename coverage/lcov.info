@@ -27,14 +27,14 @@ end_of_record
 TN:
 SF:sum.js
 FN:1,sum
-FN:5,helper
+FN:6,helper
 FNF:2
 FNH:1
 FNDA:1,sum
 FNDA:0,helper
 DA:2,1
-DA:6,0
-DA:9,1
+DA:7,0
+DA:10,1
 LF:3
 LH:2
 BRF:0
